@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2015\Projects\EmployeeArray\EmployeeArray\bin\Debug\EmployeeArray.exe.config
+\\psf\home\documents\visual studio 2015\Projects\EmployeeArray\EmployeeArray\bin\Debug\EmployeeArray.exe
+\\psf\home\documents\visual studio 2015\Projects\EmployeeArray\EmployeeArray\bin\Debug\EmployeeArray.pdb
+\\psf\home\documents\visual studio 2015\Projects\EmployeeArray\EmployeeArray\obj\Debug\EmployeeArray.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2015\Projects\EmployeeArray\EmployeeArray\obj\Debug\EmployeeArray.exe
+\\psf\home\documents\visual studio 2015\Projects\EmployeeArray\EmployeeArray\obj\Debug\EmployeeArray.pdb
